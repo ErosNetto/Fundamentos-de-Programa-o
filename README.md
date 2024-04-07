@@ -1,2 +1,2 @@
 # Fundamentos-de-Programa-o
-Atividade realizada em sala
+Atividades da faculdade realizada em sala
