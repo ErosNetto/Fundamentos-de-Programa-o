@@ -1,0 +1,16 @@
+C:\Users\2023200550\Downloads\recebendoDadosInput\bin\Debug\net7.0-windows\recebendoDadosInput.exe
+C:\Users\2023200550\Downloads\recebendoDadosInput\bin\Debug\net7.0-windows\recebendoDadosInput.deps.json
+C:\Users\2023200550\Downloads\recebendoDadosInput\bin\Debug\net7.0-windows\recebendoDadosInput.runtimeconfig.json
+C:\Users\2023200550\Downloads\recebendoDadosInput\bin\Debug\net7.0-windows\recebendoDadosInput.dll
+C:\Users\2023200550\Downloads\recebendoDadosInput\bin\Debug\net7.0-windows\recebendoDadosInput.pdb
+C:\Users\2023200550\Downloads\recebendoDadosInput\obj\Debug\net7.0-windows\recebendoDadosInput.Form1.resources
+C:\Users\2023200550\Downloads\recebendoDadosInput\obj\Debug\net7.0-windows\recebendoDadosInput.csproj.GenerateResource.cache
+C:\Users\2023200550\Downloads\recebendoDadosInput\obj\Debug\net7.0-windows\recebendoDadosInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023200550\Downloads\recebendoDadosInput\obj\Debug\net7.0-windows\recebendoDadosInput.AssemblyInfoInputs.cache
+C:\Users\2023200550\Downloads\recebendoDadosInput\obj\Debug\net7.0-windows\recebendoDadosInput.AssemblyInfo.cs
+C:\Users\2023200550\Downloads\recebendoDadosInput\obj\Debug\net7.0-windows\recebendoDadosInput.csproj.CoreCompileInputs.cache
+C:\Users\2023200550\Downloads\recebendoDadosInput\obj\Debug\net7.0-windows\recebendoDadosInput.dll
+C:\Users\2023200550\Downloads\recebendoDadosInput\obj\Debug\net7.0-windows\refint\recebendoDadosInput.dll
+C:\Users\2023200550\Downloads\recebendoDadosInput\obj\Debug\net7.0-windows\recebendoDadosInput.pdb
+C:\Users\2023200550\Downloads\recebendoDadosInput\obj\Debug\net7.0-windows\recebendoDadosInput.genruntimeconfig.cache
+C:\Users\2023200550\Downloads\recebendoDadosInput\obj\Debug\net7.0-windows\ref\recebendoDadosInput.dll
