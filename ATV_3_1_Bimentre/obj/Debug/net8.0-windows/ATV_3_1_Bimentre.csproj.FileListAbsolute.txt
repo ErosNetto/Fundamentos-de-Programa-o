@@ -1,0 +1,17 @@
+F:\Visual Studio\ATV_3_1_Bimentre\bin\Debug\net8.0-windows\ATV_3_1_Bimentre.exe
+F:\Visual Studio\ATV_3_1_Bimentre\bin\Debug\net8.0-windows\ATV_3_1_Bimentre.deps.json
+F:\Visual Studio\ATV_3_1_Bimentre\bin\Debug\net8.0-windows\ATV_3_1_Bimentre.runtimeconfig.json
+F:\Visual Studio\ATV_3_1_Bimentre\bin\Debug\net8.0-windows\ATV_3_1_Bimentre.dll
+F:\Visual Studio\ATV_3_1_Bimentre\bin\Debug\net8.0-windows\ATV_3_1_Bimentre.pdb
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\ATV_3_1_Bimentre.Form1.resources
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\ATV_3_1_Bimentre.csproj.GenerateResource.cache
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\ATV_3_1_Bimentre.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\ATV_3_1_Bimentre.AssemblyInfoInputs.cache
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\ATV_3_1_Bimentre.AssemblyInfo.cs
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\ATV_3_1_Bimentre.csproj.CoreCompileInputs.cache
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\ATV_3_1_Bimentre.dll
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\refint\ATV_3_1_Bimentre.dll
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\ATV_3_1_Bimentre.pdb
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\ATV_3_1_Bimentre.genruntimeconfig.cache
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\ref\ATV_3_1_Bimentre.dll
+F:\Visual Studio\ATV_3_1_Bimentre\obj\Debug\net8.0-windows\ATV_3_1_Bimentre.Properties.Resources.resources
