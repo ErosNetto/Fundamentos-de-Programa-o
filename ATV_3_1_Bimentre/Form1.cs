@@ -2,12 +2,12 @@ namespace ATV_3_1_Bimentre
 {
     public partial class Form1 : Form
     {
-        int cliques = 0;
-
         public Form1()
         {
             InitializeComponent();
         }
+
+        int cliques = 0;
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
@@ -28,11 +28,6 @@ namespace ATV_3_1_Bimentre
         {
             cliques = 0;
             labelCliques.Text = cliques.ToString();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -40,11 +40,11 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 20F);
+            label1.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = SystemColors.Control;
             label1.Location = new Point(135, 322);
             label1.Name = "label1";
-            label1.Size = new Size(245, 37);
+            label1.Size = new Size(265, 37);
             label1.TabIndex = 0;
             label1.Text = "Eros Netto Antunes";
             // 
@@ -52,19 +52,19 @@
             // 
             label2.AutoSize = true;
             label2.BackColor = SystemColors.ActiveCaptionText;
-            label2.Font = new Font("Segoe UI", 20F);
+            label2.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = SystemColors.Control;
-            label2.Location = new Point(478, 322);
+            label2.Location = new Point(453, 322);
             label2.Name = "label2";
-            label2.Size = new Size(213, 37);
+            label2.Size = new Size(228, 37);
             label2.TabIndex = 1;
             label2.Text = "RA: 2023200550";
             // 
             // btnRemove
             // 
             btnRemove.BackColor = Color.Red;
-            btnRemove.Font = new Font("Segoe UI", 20F);
-            btnRemove.Location = new Point(239, 152);
+            btnRemove.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnRemove.Location = new Point(211, 170);
             btnRemove.Name = "btnRemove";
             btnRemove.Size = new Size(70, 70);
             btnRemove.TabIndex = 3;
@@ -75,8 +75,8 @@
             // btnReset
             // 
             btnReset.BackColor = Color.CornflowerBlue;
-            btnReset.Font = new Font("Segoe UI", 20F);
-            btnReset.Location = new Point(379, 152);
+            btnReset.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnReset.Location = new Point(367, 170);
             btnReset.Name = "btnReset";
             btnReset.Size = new Size(100, 70);
             btnReset.TabIndex = 4;
@@ -87,30 +87,30 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 20F);
+            label3.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.ForeColor = SystemColors.Control;
             label3.Location = new Point(135, 62);
             label3.Name = "label3";
-            label3.Size = new Size(246, 37);
+            label3.Size = new Size(264, 37);
             label3.TabIndex = 5;
             label3.Text = "Número de cliques:";
             // 
             // labelCliques
             // 
             labelCliques.AutoSize = true;
-            labelCliques.Font = new Font("Segoe UI", 20F);
+            labelCliques.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             labelCliques.ForeColor = SystemColors.Control;
-            labelCliques.Location = new Point(566, 62);
+            labelCliques.Location = new Point(405, 62);
             labelCliques.Name = "labelCliques";
-            labelCliques.Size = new Size(32, 37);
+            labelCliques.Size = new Size(33, 37);
             labelCliques.TabIndex = 6;
             labelCliques.Text = "0";
             // 
             // btnAdd
             // 
             btnAdd.BackColor = Color.Green;
-            btnAdd.Font = new Font("Segoe UI", 20F);
-            btnAdd.Location = new Point(554, 152);
+            btnAdd.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnAdd.Location = new Point(554, 170);
             btnAdd.Name = "btnAdd";
             btnAdd.Size = new Size(70, 70);
             btnAdd.TabIndex = 7;
@@ -133,7 +133,7 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "Atividade Avaliativa 3 - 1 Bimestre";
-            Load += Form1_Load;
+            Load += btnReset_Click;
             ResumeLayout(false);
             PerformLayout();
         }
