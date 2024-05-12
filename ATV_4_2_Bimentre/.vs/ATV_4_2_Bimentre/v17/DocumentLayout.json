@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Visual Studio\\ATV_4_2_Bimentre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{105B578C-7B2C-4BC2-91FF-3D50813CBCCD}|ATV_4_2_Bimentre\\ATV_4_2_Bimentre.csproj|f:\\visual studio\\atv_4_2_bimentre\\atv_4_2_bimentre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{105B578C-7B2C-4BC2-91FF-3D50813CBCCD}|ATV_4_2_Bimentre\\ATV_4_2_Bimentre.csproj|solutionrelative:atv_4_2_bimentre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105B578C-7B2C-4BC2-91FF-3D50813CBCCD}|ATV_4_2_Bimentre\\ATV_4_2_Bimentre.csproj|f:\\visual studio\\atv_4_2_bimentre\\atv_4_2_bimentre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105B578C-7B2C-4BC2-91FF-3D50813CBCCD}|ATV_4_2_Bimentre\\ATV_4_2_Bimentre.csproj|solutionrelative:atv_4_2_bimentre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Visual Studio\\ATV_4_2_Bimentre\\ATV_4_2_Bimentre\\Form1.cs",
+              "RelativeDocumentMoniker": "ATV_4_2_Bimentre\\Form1.cs",
+              "ToolTip": "F:\\Visual Studio\\ATV_4_2_Bimentre\\ATV_4_2_Bimentre\\Form1.cs",
+              "RelativeToolTip": "ATV_4_2_Bimentre\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:09:47.801Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "F:\\Visual Studio\\ATV_4_2_Bimentre\\ATV_4_2_Bimentre\\Form1.cs",
+              "RelativeDocumentMoniker": "ATV_4_2_Bimentre\\Form1.cs",
+              "ToolTip": "F:\\Visual Studio\\ATV_4_2_Bimentre\\ATV_4_2_Bimentre\\Form1.cs [Projeto]",
+              "RelativeToolTip": "ATV_4_2_Bimentre\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:08:44.7Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
