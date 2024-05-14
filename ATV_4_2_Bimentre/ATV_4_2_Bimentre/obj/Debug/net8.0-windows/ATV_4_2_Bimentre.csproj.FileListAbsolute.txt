@@ -15,3 +15,20 @@ F:\Visual Studio\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\refi
 F:\Visual Studio\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.pdb
 F:\Visual Studio\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.genruntimeconfig.cache
 F:\Visual Studio\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ref\ATV_4_2_Bimentre.dll
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\bin\Debug\net8.0-windows\ATV_4_2_Bimentre.exe
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\bin\Debug\net8.0-windows\ATV_4_2_Bimentre.deps.json
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\bin\Debug\net8.0-windows\ATV_4_2_Bimentre.runtimeconfig.json
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\bin\Debug\net8.0-windows\ATV_4_2_Bimentre.dll
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\bin\Debug\net8.0-windows\ATV_4_2_Bimentre.pdb
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.Form1.resources
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.Properties.Resources.resources
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.csproj.GenerateResource.cache
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.dll
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\refint\ATV_4_2_Bimentre.dll
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.pdb
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ATV_4_2_Bimentre.genruntimeconfig.cache
+C:\Users\Gabriel\Downloads\Fundamentos-de-Programacao-ATV-main\ATV_4_2_Bimentre\ATV_4_2_Bimentre\obj\Debug\net8.0-windows\ref\ATV_4_2_Bimentre.dll
