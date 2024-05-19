@@ -1,0 +1,16 @@
+F:\Visual Studio\ATV_5_2_Bimestre\bin\Debug\net8.0-windows\ATV_5_2_Bimestre.exe
+F:\Visual Studio\ATV_5_2_Bimestre\bin\Debug\net8.0-windows\ATV_5_2_Bimestre.deps.json
+F:\Visual Studio\ATV_5_2_Bimestre\bin\Debug\net8.0-windows\ATV_5_2_Bimestre.runtimeconfig.json
+F:\Visual Studio\ATV_5_2_Bimestre\bin\Debug\net8.0-windows\ATV_5_2_Bimestre.dll
+F:\Visual Studio\ATV_5_2_Bimestre\bin\Debug\net8.0-windows\ATV_5_2_Bimestre.pdb
+F:\Visual Studio\ATV_5_2_Bimestre\obj\Debug\net8.0-windows\ATV_5_2_Bimestre.Form1.resources
+F:\Visual Studio\ATV_5_2_Bimestre\obj\Debug\net8.0-windows\ATV_5_2_Bimestre.csproj.GenerateResource.cache
+F:\Visual Studio\ATV_5_2_Bimestre\obj\Debug\net8.0-windows\ATV_5_2_Bimestre.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\ATV_5_2_Bimestre\obj\Debug\net8.0-windows\ATV_5_2_Bimestre.AssemblyInfoInputs.cache
+F:\Visual Studio\ATV_5_2_Bimestre\obj\Debug\net8.0-windows\ATV_5_2_Bimestre.AssemblyInfo.cs
+F:\Visual Studio\ATV_5_2_Bimestre\obj\Debug\net8.0-windows\ATV_5_2_Bimestre.csproj.CoreCompileInputs.cache
+F:\Visual Studio\ATV_5_2_Bimestre\obj\Debug\net8.0-windows\ATV_5_2_Bimestre.dll
+F:\Visual Studio\ATV_5_2_Bimestre\obj\Debug\net8.0-windows\refint\ATV_5_2_Bimestre.dll
+F:\Visual Studio\ATV_5_2_Bimestre\obj\Debug\net8.0-windows\ATV_5_2_Bimestre.pdb
+F:\Visual Studio\ATV_5_2_Bimestre\obj\Debug\net8.0-windows\ATV_5_2_Bimestre.genruntimeconfig.cache
+F:\Visual Studio\ATV_5_2_Bimestre\obj\Debug\net8.0-windows\ref\ATV_5_2_Bimestre.dll
