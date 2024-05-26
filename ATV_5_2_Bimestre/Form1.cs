@@ -17,13 +17,18 @@ namespace ATV_5_2_Bimestre
             res = "O contador está em 1\r\n";
             int numInput = int.Parse(formInput.Text);
 
-            while (contador < numInput) { 
+            while (contador < numInput) {
                 contador += 10;
-                res += "O contador está em: " + contador + "\r\n";
+                if (contador <= numInput) {
+                    res += "O contador está em: " + contador + "\r\n";
+                }
             }
 
-            contador += 1;
-            res += "Total contado: " + contador;
+            if (numInput % 10 != 0) {
+                res += "O contador está em: " + numInput + "\r\n";
+            }
+
+            res += "Total contado: " + numInput;
             TextBoxRes.Text = res;
         }
     }
